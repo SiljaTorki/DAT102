@@ -1,0 +1,12 @@
+public class parentesFeil {
+
+  public static void main(String[] args) {
+    System.out.println("Hallo");
+  
+  }
+
+  public void metode () {
+    System.out.println("Jeg er ikke feil");
+    System.out.println("Jeg er!"];
+
+}
